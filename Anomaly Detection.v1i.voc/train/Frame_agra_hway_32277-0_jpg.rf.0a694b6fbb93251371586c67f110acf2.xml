@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_32277-0_jpg.rf.0a694b6fbb93251371586c67f110acf2.jpg</filename>
+	<path>Frame_agra_hway_32277-0_jpg.rf.0a694b6fbb93251371586c67f110acf2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ravelling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2123</xmin>
+			<xmax>2204</xmax>
+			<ymin>1392</ymin>
+			<ymax>1814</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

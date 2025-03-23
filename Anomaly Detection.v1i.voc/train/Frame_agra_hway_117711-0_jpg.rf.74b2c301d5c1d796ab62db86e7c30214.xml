@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_117711-0_jpg.rf.74b2c301d5c1d796ab62db86e7c30214.jpg</filename>
+	<path>Frame_agra_hway_117711-0_jpg.rf.74b2c301d5c1d796ab62db86e7c30214.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alligator_cracks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1064</xmin>
+			<xmax>1189</xmax>
+			<ymin>211</ymin>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
