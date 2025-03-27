@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_111012-0_jpg.rf.6ab653f70db88be8ee44db08f86c950b.jpg</filename>
+	<path>Frame_agra_hway_111012-0_jpg.rf.6ab653f70db88be8ee44db08f86c950b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Muddy_road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>521</xmin>
+			<xmax>633</xmax>
+			<ymin>390</ymin>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

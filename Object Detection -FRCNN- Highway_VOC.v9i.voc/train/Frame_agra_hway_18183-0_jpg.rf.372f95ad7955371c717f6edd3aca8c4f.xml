@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_18183-0_jpg.rf.372f95ad7955371c717f6edd3aca8c4f.jpg</filename>
+	<path>Frame_agra_hway_18183-0_jpg.rf.372f95ad7955371c717f6edd3aca8c4f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Road_side_garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1252</xmin>
+			<xmax>1532</xmax>
+			<ymin>1</ymin>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

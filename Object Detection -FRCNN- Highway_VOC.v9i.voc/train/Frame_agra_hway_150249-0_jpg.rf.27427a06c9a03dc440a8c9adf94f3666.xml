@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_150249-0_jpg.rf.27427a06c9a03dc440a8c9adf94f3666.jpg</filename>
+	<path>Frame_agra_hway_150249-0_jpg.rf.27427a06c9a03dc440a8c9adf94f3666.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cracks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1015</xmin>
+			<xmax>1048</xmax>
+			<ymin>22</ymin>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

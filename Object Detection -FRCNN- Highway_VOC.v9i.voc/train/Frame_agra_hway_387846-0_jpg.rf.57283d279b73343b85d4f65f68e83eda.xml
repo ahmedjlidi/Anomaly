@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_387846-0_jpg.rf.57283d279b73343b85d4f65f68e83eda.jpg</filename>
+	<path>Frame_agra_hway_387846-0_jpg.rf.57283d279b73343b85d4f65f68e83eda.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Waterlogging</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1519</xmin>
+			<xmax>1694</xmax>
+			<ymin>913</ymin>
+			<ymax>1142</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

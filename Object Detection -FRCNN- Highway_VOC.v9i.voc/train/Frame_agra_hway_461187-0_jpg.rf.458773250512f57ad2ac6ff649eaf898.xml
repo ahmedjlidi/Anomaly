@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_461187-0_jpg.rf.458773250512f57ad2ac6ff649eaf898.jpg</filename>
+	<path>Frame_agra_hway_461187-0_jpg.rf.458773250512f57ad2ac6ff649eaf898.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>657</xmin>
+			<xmax>731</xmax>
+			<ymin>880</ymin>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

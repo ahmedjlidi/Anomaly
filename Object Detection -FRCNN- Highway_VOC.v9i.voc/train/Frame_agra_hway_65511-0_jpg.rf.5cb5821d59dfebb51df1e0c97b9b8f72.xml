@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Frame_agra_hway_65511-0_jpg.rf.5cb5821d59dfebb51df1e0c97b9b8f72.jpg</filename>
+	<path>Frame_agra_hway_65511-0_jpg.rf.5cb5821d59dfebb51df1e0c97b9b8f72.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>
