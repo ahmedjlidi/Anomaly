@@ -1,0 +1,362 @@
+{
+  "carbonZ_2018-07-18-15-53-31_1_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 2646,
+    "anomaly_intervals": [
+      [
+        2325,
+        2644
+      ]
+    ]
+  },
+  "carbonZ_2018-07-18-15-53-31_2_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 1775,
+    "anomaly_intervals": [
+      [
+        1468,
+        1771
+      ]
+    ]
+  },
+  "carbonZ_2018-07-18-16-22-01_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2649,
+    "anomaly_intervals": [
+      [
+        2332,
+        2647
+      ]
+    ]
+  },
+  "carbonZ_2018-07-18-16-37-39_2_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2609,
+    "anomaly_intervals": [
+      [
+        2281,
+        2608
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-16-29-45_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2844,
+    "anomaly_intervals": [
+      [
+        2463,
+        2842
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-16-39-00_1_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 2632,
+    "anomaly_intervals": [
+      [
+        2336,
+        2631
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-16-39-00_2_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 2124,
+    "anomaly_intervals": [
+      [
+        1832,
+        2123
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-17-10-45_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2660,
+    "anomaly_intervals": [
+      [
+        2344,
+        2659
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-17-20-01_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2134,
+    "anomaly_intervals": [
+      [
+        1754,
+        2133
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-17-36-35_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 3137,
+    "anomaly_intervals": [
+      [
+        2669,
+        3136
+      ]
+    ]
+  },
+  "carbonZ_2018-07-30-17-46-31_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2252,
+    "anomaly_intervals": [
+      [
+        1807,
+        2250
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-11-56-30_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 2488,
+    "anomaly_intervals": [
+      [
+        2072,
+        2481
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-14-22-07_1_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 2282,
+    "anomaly_intervals": [
+      [
+        2097,
+        2276
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-14-22-07_2_engine_failure.csv": {
+    "source_folder": "engine",
+    "length": 1247,
+    "anomaly_intervals": [
+      [
+        998,
+        1237
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-14-41-51_elevator_failure.csv": {
+    "source_folder": "elevator",
+    "length": 2568,
+    "anomaly_intervals": [
+      [
+        2357,
+        2567
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-14-52-54_left_aileron__right_aileron__failure.csv": {
+    "source_folder": "ailerons",
+    "length": 4668,
+    "anomaly_intervals": [
+      [
+        2105,
+        4664
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-15-05-11_1_elevator_failure.csv": {
+    "source_folder": "elevator",
+    "length": 1521,
+    "anomaly_intervals": [
+      [
+        1270,
+        1519
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-15-06-34_1_rudder_right_failure.csv": {
+    "source_folder": "rudder",
+    "length": 1405,
+    "anomaly_intervals": [
+      [
+        1110,
+        1399
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-15-06-34_2_rudder_right_failure.csv": {
+    "source_folder": "rudder",
+    "length": 1383,
+    "anomaly_intervals": [
+      [
+        1039,
+        1378
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-15-06-34_3_rudder_left_failure.csv": {
+    "source_folder": "rudder",
+    "length": 1387,
+    "anomaly_intervals": [
+      [
+        1202,
+        1381
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-17-27-13_1_rudder_zero__left_aileron_failure.csv": {
+    "source_folder": "rudder",
+    "length": 2869,
+    "anomaly_intervals": [
+      [
+        2327,
+        2866
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-17-27-13_2_both_ailerons_failure.csv": {
+    "source_folder": "ailerons",
+    "length": 2032,
+    "anomaly_intervals": [
+      [
+        1316,
+        2024
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-17-55-30_1_right_aileron_failure.csv": {
+    "source_folder": "ailerons",
+    "length": 2662,
+    "anomaly_intervals": [
+      [
+        2239,
+        2658
+      ]
+    ]
+  },
+  "carbonZ_2018-09-11-17-55-30_2_left_aileron_failure.csv": {
+    "source_folder": "ailerons",
+    "length": 1628,
+    "anomaly_intervals": [
+      [
+        1000,
+        1619
+      ]
+    ]
+  },
+  "carbonZ_2018-10-05-14-34-20_2_right_aileron_failure_with_emr_traj.csv": {
+    "source_folder": "ailerons",
+    "length": 3242,
+    "anomaly_intervals": [
+      [
+        3044,
+        3233
+      ]
+    ]
+  },
+  "carbonZ_2018-10-05-14-37-22_2_right_aileron_failure.csv": {
+    "source_folder": "ailerons",
+    "length": 2899,
+    "anomaly_intervals": [
+      [
+        1468,
+        2887
+      ]
+    ]
+  },
+  "carbonZ_2018-10-05-14-37-22_3_left_aileron_failure.csv": {
+    "source_folder": "ailerons",
+    "length": 1928,
+    "anomaly_intervals": [
+      [
+        1448,
+        1927
+      ]
+    ]
+  },
+  "carbonZ_2018-10-05-15-52-12_3_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 1331,
+    "anomaly_intervals": [
+      [
+        982,
+        1321
+      ]
+    ]
+  },
+  "carbonZ_2018-10-05-15-55-10_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2263,
+    "anomaly_intervals": [
+      [
+        2002,
+        2261
+      ]
+    ]
+  },
+  "carbonZ_2018-10-05-16-04-46_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 1844,
+    "anomaly_intervals": [
+      [
+        1524,
+        1843
+      ]
+    ]
+  },
+  "carbonZ_2018-10-18-11-03-57_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2328,
+    "anomaly_intervals": [
+      [
+        2085,
+        2324
+      ]
+    ]
+  },
+  "carbonZ_2018-10-18-11-04-00_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2450,
+    "anomaly_intervals": [
+      [
+        2223,
+        2442
+      ]
+    ]
+  },
+  "carbonZ_2018-10-18-11-04-08_1_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2292,
+    "anomaly_intervals": [
+      [
+        2007,
+        2286
+      ]
+    ]
+  },
+  "carbonZ_2018-10-18-11-04-08_2_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2356,
+    "anomaly_intervals": [
+      [
+        1965,
+        2354
+      ]
+    ]
+  },
+  "carbonZ_2018-10-18-11-04-35_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2185,
+    "anomaly_intervals": [
+      [
+        2026,
+        2175
+      ]
+    ]
+  },
+  "carbonZ_2018-10-18-11-06-06_engine_failure_with_emr_traj.csv": {
+    "source_folder": "engine",
+    "length": 2330,
+    "anomaly_intervals": [
+      [
+        2050,
+        2319
+      ]
+    ]
+  }
+}
